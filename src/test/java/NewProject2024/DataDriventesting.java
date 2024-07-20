@@ -34,7 +34,7 @@ public class DataDriventesting {
 		String[]babyproducts = {"napkins", 
 				                "diapers",
 				                "tissue",
-				                "toilets paper"};
+				                "toilets paper"};// baby products 
 		return babyproducts;
 	}
 
